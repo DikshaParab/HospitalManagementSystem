@@ -1,4 +1,4 @@
-#Hospital Management System
+# Hospital Management System
 
 A console-based Hospital Management System built in Python using Object-Oriented Programming (OOP) concepts. This project simulates basic hospital operations such as patient registration, doctor management, doctor assignment, patient discharge, and generating doctor-wise reports.
 
